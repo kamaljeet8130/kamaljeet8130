@@ -1,6 +1,6 @@
 ## Hello World! 👋 I'm Kamaljeet
 # 💫 About Me:
-🔭 Currently building cool stuff with test automation and frontend magic — come take a peek!  <br>👯 Got a fun project in mind? Let’s team up and build something awesome together!  <br>🤝 Stuck on JavaScript or LeetCode? Same here — let’s help each other out!  <br>🌱 Learning React, Selenium, and Appium — one bug at a time 😄  <br>💬 Curious about testing or just starting out in dev? I’ve been there — happy to chat!  <br>⚡ Fun fact: My brain enters coding mode after 9 PM — night owls unite! 🌙
+🔭 Currently building cool stuff with test automation and frontend magic — come take a peek!  <br>👯 Got a fun project in mind? Let’s team up and build something awesome together!  <br>🤝 Stuck on JavaScript or LeetCode? Same here — let’s help each other out!  <br>🌱 Learning to solve — one bug at a time 😄  <br>💬 Curious about testing or just starting out in dev? I’ve been there — happy to chat!  <br>⚡ Fun fact: My brain enters coding mode after 9 PM — night owls unite! 🌙
 
 
 ## 🌐 Socials:
